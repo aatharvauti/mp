@@ -1,2 +1,0 @@
-# MPLab
-maycroprosasor lab
