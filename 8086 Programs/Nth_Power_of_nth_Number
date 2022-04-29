@@ -1,7 +1,0 @@
-	MOV SI, 0300H
-	MOV BL, [SI]
-	MOV AL, 01H
-	MOV CL, [SI+1]
-up:	MUL BL	
-	DEC CL
-	JNZ up
